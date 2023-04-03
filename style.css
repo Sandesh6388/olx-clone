@@ -1,0 +1,25 @@
+.firstdiv {
+    display: flex;
+    flex-direction: row;
+    padding: 8px;
+    margin: 9px;
+    justify-content: center;
+    cursor: pointer;
+}
+#item{
+    cursor: pointer;
+    
+}
+.catogerie {
+    /* border: 2px solid red; */
+    padding: 6px;
+    margin: 3px 5px;
+    border-radius: 5px;
+}
+body select {
+    height: 37px;
+    width: 21px;
+}
+.catogerie:hover{
+    color: rgb(120, 228, 222);
+}
